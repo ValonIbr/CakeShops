@@ -1,0 +1,645 @@
+body{
+    margin: 0;
+    text-transform: capitalize;
+    background-color: #E4D6D6;
+}
+
+#navbar{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#E4D6D6;
+    
+}
+
+.logo{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    
+}
+.logo img{
+    height: 4rem;
+    width: 4rem;
+}
+.logo h2{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 1.3rem;
+}
+
+
+
+.cakeIcon  i{
+    margin-right: 1rem;
+    padding: .6rem;
+    color:#654F48;
+}
+.cakeIcon i:hover{
+    color: whitesmoke;
+}
+.cakeName{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 1.3rem;
+    box-shadow:1px 5px 20px rgba(0,0,0,0.5);
+}
+#chImg{
+    margin-top: 2rem;
+    margin-left: 5rem;
+    height: 28rem;
+    width: 24rem;
+}
+.main{
+    background-color: #efe6e6;
+    display: flex;
+    flex-wrap: wrap;
+}
+.text h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:#654F48;
+    padding-left: 5rem;
+    padding-top: 10rem;
+}
+.text p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:#654F48;
+    padding-left: 5rem;
+    
+}
+
+.img img{
+    height:8rem;
+}
+ a button {
+    background-color: #E4D6D6;
+    color: #654F48;
+   margin-left: 5rem;
+    font-size: 1.5rem;
+    border: none;
+    border-bottom:1px solid #654F48;
+    
+ 
+}
+
+.menuCho{
+    margin-top: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-left: 8rem;
+}
+#seemenu h1{
+    margin-top: 2rem;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:#654F48;
+}
+
+#im-1{
+    height: 17rem;
+}
+#im-2{
+    height: 17rem;
+}
+#im-3{
+    height: 17rem;
+}
+#im-4{
+    height: 17rem;
+}
+#im-5{
+    height: 17rem;
+}
+#im-6{
+    height: 17rem;
+}
+#im-7{
+    height: 17rem;
+}
+#im-8{
+    height: 17rem;
+}
+#im-9{
+    height: 17rem;
+}
+#b1{
+    background-color: #efe6e6
+}
+#u1{
+    background-color: #efe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #635551;
+}
+#b2{
+    background-color: #efe6e6;
+   
+}
+#u2{
+    background-color: #efe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #635551;
+}
+#b3{
+    background-color: #efe6e6;
+}
+#u3{
+    background-color: #efe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #635551;
+}
+#b4{
+    background-color: #efe6e6;
+}
+#u4{
+    background-color: #efe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #635551;
+}
+#b5{
+    background-color: #efe6e6;
+}
+#u5{
+    background-color: #efe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #635551;
+}
+#b6{
+    background-color: #efe6e6;
+}
+#u6{
+    background-color: #efe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #635551;
+}
+#b7{
+    background-color: #efe6e6;
+}
+#u7{
+    background-color: #efe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #635551;
+}
+#b8{
+    background-color: #efe6e6;
+}
+#u8{
+    background-color: #efe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #635551;
+}
+#b9{
+    background-color: #efe6e6;
+}
+#u9{
+    background-color: #efe6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #635551;
+}
+
+#s1{
+    font-size: 2rem;
+    font-family: 'Brush Script MT', cursive;
+}
+#s2{
+    font-size: 2rem;
+    font-family: 'Brush Script MT', cursive;
+}
+
+#s3{
+    font-size: 2rem;
+    font-family: 'Brush Script MT', cursive;
+}
+#s4{
+    font-size: 2rem;
+    font-family: 'Brush Script MT', cursive;
+}
+#s5{
+    font-size: 2rem;
+    font-family: 'Brush Script MT', cursive;
+}
+#s6{
+    font-size: 2rem;
+    font-family: 'Brush Script MT', cursive;
+}
+#s7{
+    font-size: 2rem;
+    font-family: 'Brush Script MT', cursive;
+}
+#s8{
+    font-size: 2rem;
+    font-family: 'Brush Script MT', cursive;
+}
+#s9{
+    font-size: 2rem;
+    font-family: 'Brush Script MT', cursive;
+}
+
+
+
+
+
+#cti-1{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 2rem;
+    text-align: center;
+}
+#cti-2{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 2rem;
+    text-align: center;
+}
+#cti-3{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 2rem;
+    text-align: center;
+}
+#cti-4{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 2rem;
+    text-align: center;
+}
+#cti-5{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 2rem;
+    text-align: center;
+}
+#cti-6{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 2rem;
+    text-align: center;
+}
+#cti-7{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 2rem;
+    text-align: center;
+}
+#cti-8{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 2rem;
+    text-align: center;
+}
+#cti-9{
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    color:#654F48;
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+#cte-1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    color: #635551;
+
+}
+#cte-2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    color: #635551;
+
+}
+#cte-3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    color: #635551;
+
+}
+#cte-4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    color: #635551;
+
+}
+#cte-5{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    color: #635551;
+
+}
+#cte-6{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    color: #635551;
+
+}
+#cte-7{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    color: #635551;
+
+}
+#cte-8{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    color: #635551;
+
+}
+#cte-9{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    color: #635551;
+
+}
+
+#cli-1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+
+#cli-2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-4 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-5 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-6 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-7 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-8 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-9 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+
+#cli-1-1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+
+#cli-2-2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-3-3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-4-4 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-5-5 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-6-6{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-7-7 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-8-8 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+#cli-9-9 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #705951;
+    color: #E4D6D6;
+    font-size: 1rem;
+    border: 1px solid #635551;
+    text-decoration: none;
+}
+
+.fot{
+    margin-top: 3rem;
+    background-color: #E4D6D6;
+}
+.icFot a i{
+    color: #654F48;
+    margin-top: 4rem;
+
+}
+.iconFot{
+    padding-top: 2rem;
+}
+.iconFot  i{
+    display: block;
+    color: #654F48;
+    text-decoration: none;
+    padding-bottom: .5rem;
+}
+.iconFot a{
+    text-decoration: none;
+}
+.contact h1{
+    margin-top: 3rem;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:#654F48;
+}
+.prev a i{
+    font-size: 1.5rem;
+    color: #705951;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+
+
+
+
+/* responsive */
+@media screen and (max-width: 768px){
+    #navbar{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        background-color:#E4D6D6;
+        border-bottom: 1px solid #654F48;
+        
+    }
+    
+    .logo{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: end;
+        
+    }
+    .logo img{
+        height: 2rem;
+        width: 2rem;
+    }
+    .logo h2{
+        font-family: 'Brush Script MT', cursive;
+        font-style: italic;
+        color:#654F48;
+        font-size: .8rem;
+    }
+    
+    .cakeIcon  i{
+        margin-right: 1rem;
+        padding: .6rem;
+        color:#654F48;
+    }
+    .cakeIcon i:hover{
+        color: whitesmoke;
+    }
+    .cakeName h2{
+        font-family: 'Brush Script MT', cursive;
+        font-style: italic;
+        color:#654F48;
+        font-size: .8rem;
+    }
+
+}
+
+@media screen and (max-width: 480px){
+    #navbar{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        background-color:#E4D6D6;
+        border-bottom: 1px solid #654F48;
+        
+    }
+    
+    .logo{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: end;
+        
+    }
+    .logo img{
+        height: 1.2rem;
+        width: 1.2rem;
+    }
+    .logo h2{
+        font-family: 'Brush Script MT', cursive;
+        font-style: italic;
+        color:#654F48;
+        font-size: .5rem;
+    }
+    
+    .cakeIcon  i{
+        margin-right: 1rem;
+        padding: .6rem;
+        color:#654F48;
+    }
+    .cakeIcon i:hover{
+        color: whitesmoke;
+    }
+    .cakeName h2{
+        font-family: 'Brush Script MT', cursive;
+        font-style: italic;
+        color:#654F48;
+        font-size: .6rem;
+    }
+
+}
